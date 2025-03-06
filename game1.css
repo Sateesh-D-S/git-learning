@@ -16,7 +16,7 @@
   .game-container {
     width: 800px;
     height: 600px;
-    background-color: #222;
+    background-color: #6f2626;
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
@@ -29,8 +29,8 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background-color: #333;
-    border-bottom: 2px solid #444;
+    background-color: #982f2f;
+    border-bottom: 3px solid #444;
   }
   
   .game-header h1 {
