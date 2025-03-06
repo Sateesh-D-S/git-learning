@@ -76,4 +76,10 @@
   .control-btn:active {
     background-color: #3e8e41;
   }
-  
+  .game-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #982f2f;
+    border-bottom: 3px solid #444;
+  }
