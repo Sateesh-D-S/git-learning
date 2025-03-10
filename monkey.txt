@@ -1,0 +1,1 @@
+What is git push origin main ? The command git push origin main is used to push changes from your local repository to a remote repository. It consists of three main parts: git push : The Git command that initiates the process of sending your commits to a remote repository.
